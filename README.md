@@ -37,6 +37,13 @@ I worked as a **Gameplay Programmer** and **Unity Developer**, contributing:
 - Improved the game's usability and performance over time
 
 ---
+## 📸 Screenshots / Media 
+### Gameplay Screenshots
+
+![Screenshot 1](images/Screenshot1.png)
+![Screenshot 2](images/Screenshot2.png)
+![Screenshot 3](images/Screenshot3.png)
+![Screenshot 4](images/Screenshot4.png)
 
 
 ---
